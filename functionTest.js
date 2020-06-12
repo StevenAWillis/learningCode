@@ -128,3 +128,5 @@ function brianTimes10(arr,item){
 };
 let testArray = [1,2,3,4];
 console.log(brianTimes10(testArray,3));
+
+//New Edition
